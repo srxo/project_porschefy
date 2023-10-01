@@ -4,9 +4,9 @@
 
 <body>
 <article>
-    <h1>welcome</h1>
-    <p>
-        lorem ipsum
-    </p>
+    <?= $post; ?>
 </article>
+
+<a href="/">Go Back</a>
+
 </body>
